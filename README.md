@@ -15,7 +15,7 @@ I'm **Sidhartha Kumar Malla** — a Data Analyst & BI Developer passionate about
 - 🔭 Currently working on **Data Intelligence & BI projects**  
 - 🌱 Learning **advanced analytics, cloud data platforms & predictive modeling**  
 - 📊 Skilled in **SQL, Power BI (DAX/Power Query), Python & Microsoft Fabric**  
-- 📫 Reach me: **[your-email@example.com](mailto:your-email@example.com)**
+- 📫 Reach me: **[sidharthakumarmalla@gmail.com](mailto:sidharthakumarmalla@gmail.com)**
 
 ---
 
@@ -121,14 +121,14 @@ I'm **Sidhartha Kumar Malla** — a Data Analyst & BI Developer passionate about
 ---
 
 # 📄 Resume
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=github)](https://github.com/SidharthaKumarMalla/Portfolio/blob/main/SKM_resume__.pdf)
 
 ---
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthakumarmalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthakumarmalla&layout=compact&theme=tokyonight&hide_border=true" height="170em" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sidharthakumarmalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sidharthakumarmalla&layout=compact&theme=tokyonight&hide_border=true" height="170em" />
 </div>
 
 <div align="center">
@@ -144,8 +144,8 @@ I'm **Sidhartha Kumar Malla** — a Data Analyst & BI Developer passionate about
 
 # 🤝 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_HERE" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sidhartha-kumar-malla/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:sidharthakumarmalla@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/sidharthakumarmalla" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
