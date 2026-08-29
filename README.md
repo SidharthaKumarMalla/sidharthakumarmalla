@@ -127,8 +127,11 @@ I'm **Sidhartha Kumar Malla** — a Data Analyst & BI Developer passionate about
 
 # 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sidharthakumarmalla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthakumarmalla&layout=compact&theme=tokyonight&hide_border=true" height="170em" />
+  <img src="https://raw.githubusercontent.com/sidharthakumarmalla/sidharthakumarmalla/main/github-stats.svg" height="170em" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/sidharthakumarmalla/sidharthakumarmalla/main/top-langs.svg" height="170em" />
 </div>
 
 <div align="center">
