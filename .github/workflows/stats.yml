@@ -28,6 +28,9 @@ jobs:
           base: header, activity, community, repositories
           config_timezone: Asia/Kolkata
           plugin_lines: yes
+          output_action: commit
+          committer_branch: main
+          committer_message: "📊 Update stats card"
 
       - name: Generate Languages Card
         uses: lowlighter/metrics@latest
@@ -41,11 +44,6 @@ jobs:
           plugin_languages_details: percentage
           plugin_languages_threshold: 2%
           config_timezone: Asia/Kolkata
-
-      - name: Commit and Push
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add github-stats.svg top-langs.svg
-          git diff --staged --quiet || git commit -m "📊 Update GitHub stats cards"
-          git push
+          output_action: commit
+          committer_branch: main
+          committer_message: "📊 Update languages card"
