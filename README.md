@@ -126,13 +126,7 @@ I'm **Sidhartha Kumar Malla** — a Data Analyst & BI Developer passionate about
 ---
 
 # 📊 GitHub Stats
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sidharthakumarmalla/sidharthakumarmalla/main/github-stats.svg" height="170em" />
-</div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sidharthakumarmalla/sidharthakumarmalla/main/top-langs.svg" height="170em" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sidharthakumarmalla&theme=tokyonight&hide_border=true" />
