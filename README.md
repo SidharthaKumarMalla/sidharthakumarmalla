@@ -91,11 +91,6 @@ I'm **Sidhartha Kumar Malla** — a **DP-600 Certified** Data Analyst & BI Devel
 - Performed root-cause analysis by tracing relationships across database tables  
 - Validated table relationships, joins, and data quality on anonymized datasets
 
-### 🤖 AI Data Analyst Intern — InAmigos Foundation
-> **June 2026 | Remote**
-- Performed EDA using **Python (Pandas, NumPy)** and SQL to identify trends, patterns, and actionable insights  
-- Built interactive dashboards and reports in **Power BI** to visualize KPIs  
-- Applied data visualization and statistical analysis techniques to communicate insights effectively
 
 ### 📊 Data Analytics Intern — Talentele
 > **Dec 2025 – Jun 2026**
